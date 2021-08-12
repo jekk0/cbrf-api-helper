@@ -1,3 +1,7 @@
+### 2.0.1 (2021-08-12)
+
+    * Update readme (new travis ci links)
+
 ### 2.0.0 (2019-01-27)
 
     * Global code refactoring. Update phpunit version
