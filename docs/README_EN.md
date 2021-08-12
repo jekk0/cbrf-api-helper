@@ -2,7 +2,7 @@
 
 ###### [Documentation for version 1.x.x](./docs/README_EN_VER_1.X.X.md)
 
-[![Build Status](https://travis-ci.org/jekk0/cbrf-api-helper.svg?branch=master)](https://travis-ci.org/jekk0/cbrf-api-helper)
+[![Build Status](https://travis-ci.com/jekk0/cbrf-api-helper.svg?branch=master)](https://travis-ci.com/github/jekk0/cbrf-api-helper)
 [![Coverage Status](https://codecov.io/gh/jekk0/cbrf-api-helper/branch/master/graphs/badge.svg)](https://codecov.io/gh/jekk0/cbrf-api-helper)
 [![Latest Stable Version](https://poser.pugx.org/jekk0/cbrf-api-helper/v/stable)](https://packagist.org/packages/jekk0/cbrf-api-helper)
 [![Total Downloads](https://poser.pugx.org/jekk0/cbrf-api-helper/downloads)](https://packagist.org/packages/jekk0/cbrf-api-helper)
